@@ -9,6 +9,11 @@ BookMyShow offers showtimes, movie tickets, reviews, trailers, concert tickets a
 
 ## Go to project directory:-
 https://github.com/ashwanikpankaj/bookmyshow_clone
+
+## Deploy link:-
+- https://bookmyshow-5a00b.firebaseapp.com/
+
+
 ## Tech Stack :-
 - HTML
 - CSS
@@ -93,5 +98,3 @@ Run Backend side
 
 - [Read our Blog](https://shikha06.hashnode.dev/bookmyshow-clone)
 
-## Deploy link:-
-- https://bookmyshow-5a00b.firebaseapp.com/
